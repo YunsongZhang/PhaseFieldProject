@@ -1,7 +1,0 @@
-10.0 0.25 0.1        read(77,*)x0,km,kmr
-        read(77,*)
-.1 5.0 0.0000100000 8        read(77,*)dx,dy,dt
-1.00        read(77,*)diffv
-10000 10000        read(77,*)iodis,iowrite
-1.00     read(77,*)tmax
-20.0  1.d-8       read(77,*)gamma
