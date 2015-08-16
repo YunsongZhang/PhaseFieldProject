@@ -1,0 +1,16 @@
+0.0005d0 0.2d0      read(77,*)sa,si,sc
+0.1d0 .005d0         read(77,*)ba,bc
+0.02d0 0.03d0 0.013d0   read(77,*)ra,rb,rc
+0.d0 0.02d0 10.d0 read(77,*)dr,dy,rad
+        read(77,*)
+0.d0 2.71441705        read(77,*)a0
+0.1 2.71441705        read(77,*)b0
+0.d0 0.823275419       read(77,*)c0
+        read(77,*)
+.1d0 0.1d0       read(77,*)dx,dt
+1.d-3 1.d-5 1.8d-3        read(77,*)diffa,diffb,diffc
+100000.d0 100.d0 100.d0       read(77,*)tmax,twrite,tdis
+-0.1 50.        read(77,*)yx1,yx2
+1.0d0 0.1d0         gamma thresh_yp
+
+1000000. 30000. 1000.        read(77,*)tmax,twrite,tdis
